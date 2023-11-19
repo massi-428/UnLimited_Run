@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88a0556c866f00b478c24edfa10c9bd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UpperWall: {fileID: 9218750329361790159, guid: 2132496bd3f0d2741882ed57e4492a16, type: 3}
+  - UnderWall: {fileID: 9218750329361790159, guid: bc8a2f4b2d03acc4ca63030ce11e61bd, type: 3}
+  - Mini_UpperWall: {fileID: 9218750329361790159, guid: 0bcb31ac0490f0c47815029dd073659c, type: 3}
+  - Mini_UnderWall: {fileID: 9218750329361790159, guid: 832efc85f440e044e8b0ce0d2a701a1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
